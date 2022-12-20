@@ -1,0 +1,12 @@
+dependency-injector==4.39.1
+dvc[ssh]==2.34.2
+fastapi==0.78.0
+jupyter==1.0.0
+omegaconf==2.2.2
+opencv-python-headless==4.6.0.66
+pytest-cov==3.0.0
+pytest==7.1.2
+python-multipart==0.0.5
+torch==1.13.0
+uvicorn==0.18.2
+wemake-python-styleguide==0.16.1

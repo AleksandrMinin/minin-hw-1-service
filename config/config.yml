@@ -1,0 +1,4 @@
+services:
+  space_image_classifier:
+    model_path: 'weights/space_image_classification.pt'
+    device: ${oc.env:SPACE_PLANET_DEVICE,'cpu'}
